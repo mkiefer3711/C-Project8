@@ -1,0 +1,4 @@
+﻿  kiefer_prog8.cpp
+  The contents of <format> are available only with C++20 or later.
+C:\Users\Maddison\Desktop\Baker College\C++ Programming\kiefer_prog8\stockListType.h(33,9): warning C4101: 'max': unreferenced local variable
+  kiefer_prog8.vcxproj -> C:\Users\Maddison\Desktop\Baker College\C++ Programming\kiefer_prog8\x64\Debug\kiefer_prog8.exe
